@@ -1,4 +1,5 @@
 ;; Leson 0001 with John.btc
+;; data types and declaration's
 (define-constant user1 u5)
 (define-constant user2 2)
 (define-constant user3 "")
